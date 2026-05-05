@@ -17,6 +17,9 @@ This project uses Google Apps Script + Gemini API to analyze text data directly 
 2. Add GEMINI_KEY in Script Properties
 3. Open Google Sheet
 4. Run Analyze All
+   
+## Output
+<img width="1212" height="526" alt="image" src="https://github.com/user-attachments/assets/720a04d7-5d22-4a58-a55d-f576b04ba4f0" />
 
 ## Workflow
 Sheet → Apps Script → Gemini API → JSON Response → Sheet update
